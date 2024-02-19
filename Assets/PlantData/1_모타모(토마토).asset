@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8fef45e6b5b3af44866e8ea4feaa7f2, type: 3}
+  m_Name: "1_\uBAA8\uD0C0\uBAA8(\uD1A0\uB9C8\uD1A0)"
+  m_EditorClassIdentifier: 
+  seedIcon: {fileID: 0}
+  seedlingIcon: {fileID: 0}
+  growingIcon: {fileID: 0}
+  harvestIcon: {fileID: 0}
+  plantIcon: {fileID: 0}
+  selectIcon: {fileID: 0}
+  plantCategory: 1
+  plantName: "\uBAA8\uD0C0\uBAA8"
+  plantQuality: 
+  plantFresh: 0
+  plantDescription: "\uC9C0\uAD6C\uC758 \uD1A0\uB9C8\uD1A0\uC640 \uBE44\uC2B7\uD55C
+    \uC791\uBB3C\uC774\uB2E4. \uC2EC\uD608\uAD00 \uC9C8\uD658 \uC608\uBC29\uC740
+    \uBB3C\uB860 \uCE58\uB8CC\uC5D0\uB3C4 \uD6A8\uACFC\uAC00 \uC88B\uB2E4."
+  havePlant: 0
+  plantPrice: 0
